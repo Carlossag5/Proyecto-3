@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952517014965",
+    "project_id": "red-social-uca-d99da",
+    "storage_bucket": "red-social-uca-d99da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952517014965:android:244f9cb6554e26558e15fc",
+        "android_client_info": {
+          "package_name": "com.example.redsocialuca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952517014965-970ukc9s4rs3rtor4oevk3n3shus4ul2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGcTCvkoNMzi5cStcjnJND8XbsHG_Q6j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952517014965-970ukc9s4rs3rtor4oevk3n3shus4ul2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
